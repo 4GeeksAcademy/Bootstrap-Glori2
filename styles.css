@@ -1,0 +1,5 @@
+body img{
+    width: 810px;
+    height: 810px;
+    object-fit: cover;
+}
